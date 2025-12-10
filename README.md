@@ -32,7 +32,7 @@
 
 ## 📚 Projets 42
 
-### 🔹 [Libft](lien-vers-repo)
+### 🔹 [Libft](https://projects.intra.42.fr/projects/42cursus-libft/projects_users/4602161)
 > Ma première bibliothèque C personnalisée
 - Réimplémentation des fonctions standards de la libc
 - Gestion de la mémoire et manipulation de chaînes
@@ -42,7 +42,7 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png?raw=true"></img>
 </a>
 
-### 🔹 [Get_next_line](lien-vers-repo)
+### 🔹 [Get_next_line](https://projects.intra.42.fr/projects/42cursus-get_next_line/projects_users/4632487)
 > Lecture ligne par ligne depuis un file descriptor
 - Gestion de buffers et de la mémoire dynamique
 - Support de fichiers multiples simultanés
@@ -52,7 +52,7 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true"></img>
 </a>
 
-### 🔹 [ft_printf](lien-vers-repo)
+### 🔹 [ft_printf](https://projects.intra.42.fr/projects/42cursus-ft_printf/projects_users/4628813)
 > Réimplémentation de la fonction printf
 - Parsing de format strings et gestion d'arguments variadiques
 - Support des conversions multiples (c, s, p, d, i, u, x, X, %)
@@ -62,7 +62,7 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfn.png?raw=true"></img>
 </a>
 
-### 🔹 [Born2beroot](lien-vers-repo)
+### 🔹 [Born2beroot](https://projects.intra.42.fr/projects/born2beroot/projects_users/4625009)
 > Configuration d'une machine virtuelle avec des règles de sécurité strictes
 - Administration système Linux/Debian
 - Configuration de pare-feu, politique de mots de passe, sudo
@@ -72,7 +72,7 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootn.png?raw=true"></img>
 </a>
 
-### 🔹 [Push_swap](lien-vers-repo)
+### 🔹 [Push_swap](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/4659273)
 > Algorithme de tri avec contraintes de complexité
 - Optimisation d'algorithmes de tri sur deux piles
 - Réduction du nombre d'opérations
@@ -82,7 +82,7 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapn.png?raw=true"></img>
 </a>
 
-### 🔹 [Pipex](lien-vers-repo)
+### 🔹 [Pipex](https://projects.intra.42.fr/projects/pipex/projects_users/4672516)
 > Simulation du comportement des pipes sous Unix
 - Gestion de processus avec fork, pipe et dup2
 - Reproduction du comportement de `|` en shell
@@ -92,7 +92,7 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexe.png?raw=true"></img>
 </a>
 
-### 🔹 [So_long](lien-vers-repo)
+### 🔹 [So_long](https://projects.intra.42.fr/projects/so_long/projects_users/4647693)
 > Petit jeu 2D en graphisme
 - Rendu graphique avec la MiniLibX
 - Gestion d'événements et de collision
