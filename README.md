@@ -102,12 +102,6 @@
 	<img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png?raw=true"></img>
 </a>
 
-### 🔹 [Philosophers](lien-vers-repo)
-> Résolution du problème des philosophes
-- Gestion de threads et de mutex
-- Éviter les deadlocks et race conditions
-- **Compétences** : Multithreading, synchronisation, concurrence
-
 ---
 
 ## 📊 Statistiques GitHub
