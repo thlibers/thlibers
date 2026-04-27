@@ -158,6 +158,20 @@
 - Gestion des pipes, redirections et variables d'environnement
 - **Compétences** : Processus, parsing, UNIX, IPC
 
+
+### 🔹 [Cube3D](https://projects.intra.42.fr/projects/cub3d/projects_users/4647693)
+
+<div align=center>
+	<a href="https://projects.intra.42.fr/projects/cub3d/projects_users/4647693">
+		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" width=100px></img>
+	</a>
+</div>
+
+> Création d'un moteur de rendu en raycasting inspiré de Wolfenstein 3D
+- Parsing de carte `.cub` et validation des éléments de configuration
+- Implémentation du raycasting, des textures, des déplacements et des collisions
+- **Compétences** : Raycasting, algorithmie 2D/3D, parsing, MiniLibX
+
 ---
 
 ## 📊 Statistiques GitHub
