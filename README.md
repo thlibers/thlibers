@@ -131,10 +131,10 @@
 - **Compétences** : Graphisme, event handling, game design
 
 
-### 🔹 [Philosophers](https://projects.intra.42.fr/projects/philosophers/projects_users/4647693)
+### 🔹 [Philosophers](https://projects.intra.42.fr/projects/42cursus-philosophers)
 
 <div align=center>
-	<a href="https://projects.intra.42.fr/projects/philosophers/projects_users/4647693">
+	<a href="https://projects.intra.42.fr/projects/42cursus-philosophers">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosopherse.png" width=100px></img>
 	</a>
 </div>
@@ -145,10 +145,10 @@
 - **Compétences** : Multithreading, synchronisation, concurrence
 
 
-### 🔹 [Minishell](https://projects.intra.42.fr/projects/minishell/projects_users/4647693)
+### 🔹 [Minishell](https://projects.intra.42.fr/projects/42cursus-minishell)
 
 <div align=center>
-	<a href="https://projects.intra.42.fr/projects/minishell/projects_users/4647693">
+	<a href="https://projects.intra.42.fr/projects/42cursus-minishell">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minishelle.png" width=100px></img>
 	</a>
 </div>
@@ -159,10 +159,10 @@
 - **Compétences** : Processus, parsing, UNIX, IPC
 
 
-### 🔹 [Cube3D](https://projects.intra.42.fr/projects/cub3d/projects_users/4647693)
+### 🔹 [Cube3D](https://projects.intra.42.fr/projects/cub3d)
 
 <div align=center>
-	<a href="https://projects.intra.42.fr/projects/cub3d/projects_users/4647693">
+	<a href="https://projects.intra.42.fr/projects/cub3d">
 		<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" width=100px></img>
 	</a>
 </div>
